@@ -1,0 +1,6 @@
+data/**/http_cache*
+data/**/http_cache*.sqlite
+data/**/http_cache*-wal
+data/**/http_cache*-shm
+auto_backup.log
+*.pid
