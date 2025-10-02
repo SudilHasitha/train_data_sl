@@ -1,2 +1,2 @@
 nohup: ignoring input
-[auto_backup] repo=/home/sudil/Desktop/train_schedule_sl branch=master prefix='data backup' start_from=03 interval=21600s
+[auto_backup] repo=/home/sudil/Desktop/train_schedule_sl branch=master prefix='data backup' start_from=04 interval=21600s
